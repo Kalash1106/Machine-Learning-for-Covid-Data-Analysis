@@ -8,4 +8,4 @@ This project aims at analysing Covid-19 data worldwide, and explaining various p
 Logistic Regression, SVM Classifier, MLP Classifier, Random Forest Classifier and Gradient Boosting Classifier. 
 
 
-The sources and links to datasets, contribution of team members and acknowledgements are provided in the report alongwith other sections. 
+The sources and links to datasets, contribution of team members and acknowledgements are provided in the report along with the other sections. 
