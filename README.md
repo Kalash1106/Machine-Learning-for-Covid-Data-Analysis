@@ -1,4 +1,4 @@
-# DS-203-Project
+# Machine Learning for Covid Data Analysis (DS-203-Project)
 This project is undertaken by three sophomores from IITB, as a part of the DS 203 Course curriculum project, under the guidance of Prof. Amit Sethi, Prof. Manjesh Hanawal, Prof. S. Sudarshan and Prof. Sunita Sarawagi. 
 
 This project has 4 .ipynb files - EDA_countries(1).ipynb, EDA_countries(2).ipynb,  Classification_ICU.ipynb,  EDA+Regression_IND.ipynb    . 
